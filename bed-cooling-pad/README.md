@@ -219,3 +219,59 @@ warrantied, so **buy the pad, build the chiller** is the better DIY split.
 - TechteamGB Peltier/PC-watercooling bed cooler: https://techteamgb.co.uk/2024/11/18/i-made-a-custom-bed-watercooler-open-source-diy-bed-cooler-heater-eight-sleep-type-thing/ (video: https://www.youtube.com/watch?v=zb5H-CeDVpg)
 - Mattress Cooler ice-based DIY kit: https://www.amazon.com/Mattress-Cooler-Chilled-Cooling-Systems/dp/B08ZGCVHPD
 - Example 180 W Peltier aquarium chiller: https://www.amazon.com/Semiconductor-Refrigeration-Thermoelectric-Peltier-Cooling/dp/B075HBR47J
+
+---
+
+## 8. Update: buy the Hydrolayer pad, build the dock
+
+Sleepme sells the Chilipad 2.0 Hydrolayer pad alone for $449 per half-king
+side (checked on sleep.me, Sept 2026). The dual 2.0 kit is ~$2,700 and a single
+"Me" side is $1,599 on promo, so roughly $1,150-1,350 of each side is the dock.
+Building the dock and buying the pad is the best DIY split: nicest pad on the
+market, and the dock is just a Peltier chiller, a small pump, a fan, a
+reservoir and a thermostat. Sleepme's own docks are thermoelectric too.
+
+### What the pad expects
+- Hose ends in **CPC DPC-series quick disconnects**. Buy the mating halves
+  from McMaster-Carr or US Plastic (a few dollars each). No cutting.
+- Stock Dock Pro pump is 12 V, ~9 L/min, 1.4 A. So: gentle flow, low pressure.
+  Keep pump head under ~2 m and the reservoir below mattress height. The
+  Hydrolayer is a laminated membrane; high pressure is how you kill it.
+- Water target 60-68 °F (15-20 °C). Distilled water plus a little cleaner.
+- Warranty and sleep trial are void once the pad is on a non-Sleepme unit.
+
+### Quiet, nightstand-sized dock (Peltier)
+| Part | Approx. cost |
+|---|---|
+| 2x TEC1-12706 (or 12710) on a dual water-block sandwich | $40-70 |
+| 240 mm PC radiator + 2 quiet 120 mm fans (700-900 rpm, ~20 dB) | $70-110 |
+| Two 12 V brushless pumps (pad loop, hot-side loop), or a D5 for the hot side | $30-60 |
+| 12 V 20 A PSU | $25-35 |
+| Controller: W1209 thermostat ($5) or ESP32 + ESPHome (phone control; see TechteamGB) | $5-30 |
+| Reservoir, tubing, CPC fittings, clamps, enclosure, leak sensor | $40-60 |
+| **Dock total** | **$210-365** |
+| Hydrolayer half-king pad | $449 |
+| **One side** | **~$660-815** (vs $1,599 Chilipad 2.0 Me) |
+
+Second side: +$449 pad, and either a second dock or 4 TECs on a 360 mm
+radiator in a shared unit. About $550-750 more.
+
+Expected cooling: 60-100 W at a 60-65 °F water target, enough for one sleeper
+with margin. Room heat rejected: ~250 W per side, same as the commercial dock.
+
+### Build order
+1. Order pad, CPC fittings, pump, radiator, TEC block, PSU, controller.
+2. Bench-assemble the loop with plain tubing in place of the pad. Bleed air.
+3. Leak-test the whole thing in a bathtub overnight before the pad goes on the bed.
+4. Tune fan speed for noise, then thermostat setpoint for comfort.
+5. Add a water-leak sensor under the dock and a smart plug to pre-chill.
+
+### Zero-engineering fallback
+Same $449 pad on a $150-220 1/10 HP compressor aquarium chiller in a closet,
+with the pad hose extended. No thermal design needed, but not bedside-quiet.
+
+Sources for this section: CPC drain tool for Chilipad/OOLER couplings
+(https://www.printables.com/model/1383378-chilipad-or-ooler-drain-tool-for-cpc-quick-disconn),
+Dock Pro replacement pump specs (https://www.ussolarpumps.com/catalog/replacement-pumps/chili-cube-replacement-pump/),
+Chilipad 2.0 dock page (https://sleep.me/product/chilipad-dock-control-unit),
+TechteamGB ESPHome bed cooler (https://techteamgb.co.uk/2024/11/18/i-made-a-custom-bed-watercooler-open-source-diy-bed-cooler-heater-eight-sleep-type-thing/).
