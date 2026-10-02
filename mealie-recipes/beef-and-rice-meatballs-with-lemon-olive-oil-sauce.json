@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef and Rice Meatballs with Lemon–Olive Oil Sauce",
+  "description": "In the Greek dish called youvarlakia avgolemono, beef and rice meatballs dot a lemony soup. To simplify, we pair the meatballs with a quick pan sauce inspired by Greek ladolemono, a sauce of lemon, olive oil and sometimes herbs. A generous amount of chopped dill lends fresh herbal notes. Serve with warmed pita bread or a rice or orzo pilaf.\n\nDon't use uncooked rice, even though many recipes do. If the rice is raw, the grains won't cook through in time. Thawed frozen, store-bought shelf-stable or home-cooked leftover long-grain rice all do nicely. Make sure it's at room temperature so the grains are easy to mash with a fork.",
+  "recipeYield": "4 servings",
+  "totalTime": "PT40M",
+  "recipeCategory": ["Main Course"],
+  "recipeCuisine": "Greek",
+  "keywords": "Fast, meatballs, beef, Greek",
+  "recipeIngredient": [
+    "1 cup cooked long-grain white rice, room temperature",
+    "2 slices hearty white sandwich bread, torn into small pieces",
+    "1 cup low-sodium beef broth, divided",
+    "4 tablespoons finely chopped fresh dill, divided",
+    "Kosher salt",
+    "Ground black pepper",
+    "1 pound 85 percent lean ground beef",
+    "1 large egg yolk",
+    "3 medium garlic cloves, finely grated",
+    "2 teaspoons dried oregano, divided",
+    "5 tablespoons extra-virgin olive oil, divided",
+    "2 tablespoons lemon juice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, mash the rice with a fork until smooth and pasty. Add the bread, ¼ cup of broth, 2 tablespoons of dill, 2 teaspoons salt and 1 teaspoon pepper. Using your hands, mix and mash the ingredients to a paste. Add the beef, egg yolk, half of the garlic and 1 teaspoon of oregano, then mix with your hands until the mixture is homogeneous. Divide into 12 portions, form into smooth balls and place on a plate. Refrigerate, uncovered, for about 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a 12-inch nonstick skillet over medium-high, heat 2 tablespoons of oil until shimmering. Add the meatballs and cook without disturbing until lightly browned on the bottoms, about 3 minutes. Carefully turn the meatballs and cook until browned on the second sides, about another 3 minutes. Add the remaining garlic and the remaining 1 teaspoon oregano and cook, stirring, until fragrant, about 30 seconds. Add the remaining ¾ cup broth, then scrape up any browned bits. Bring to a simmer, then cover, reduce to medium-low and cook, gently stirring once or twice, until the centers of the meatballs reach 160°F, 5 to 7 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using tongs, transfer the meatballs to a serving dish and tent with foil. Bring the liquid in the pan to a boil over medium-high and cook, stirring occasionally, until thick enough that a spatula drawn through it leaves a trail, 2 to 3 minutes. Off heat, whisk in the remaining 3 tablespoons olive oil and the lemon juice. Taste and season with salt and pepper. Pour the sauce over the meatballs and sprinkle with the remaining 2 tablespoons dill."
+    }
+  ]
+}
