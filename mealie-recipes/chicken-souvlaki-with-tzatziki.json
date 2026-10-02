@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Souvlaki with Tzatziki",
+  "description": "Souvlaki translates from the Greek as \"skewer,\" but for this easy weeknight rendition, we forgo the skewers and cook individual pieces of chicken. And instead of firing up the grill, we simply turn on the broiler. A quick marinade of olive oil, garlic, lemon and oregano seasons boneless, skinless thighs while the oven heats. Souvlaki wouldn't be complete without tzatziki, a cooling cucumber-yogurt condiment; for ours, we shred then salt an English cucumber and add fresh dill for bright herbal notes. To eat as a wrap, squeeze fresh lemon juice over the chicken, then spread tzatziki on the pita and tuck in the meat and veggies.\n\nDon't bother peeling the cucumber before shredding it. The skin on English cucumbers is thin and doesn't require removal. Also, make sure to squeeze the salted cucumber before adding it to the yogurt mixture. This removes excess water that otherwise would dilute the tzatziki.\n\nNutrition values are estimates per serving (not from the cookbook), not including pita, assuming Diamond Crystal kosher salt and that most of the cucumber salt is squeezed out.",
+  "recipeYield": "4 servings",
+  "totalTime": "PT40M",
+  "cookTime": "PT12M",
+  "recipeCategory": [
+    "Main Course"
+  ],
+  "recipeCuisine": "Greek",
+  "keywords": "Flat and Folded, chicken, Greek, souvlaki, tzatziki",
+  "recipeIngredient": [
+    "1 English cucumber, halved, seeded and shredded on the large holes of a box grater",
+    "Kosher salt",
+    "Ground black pepper",
+    "4 tablespoons extra-virgin olive oil, divided",
+    "4 teaspoons lemon juice, divided, plus lemon wedges to serve",
+    "3 medium garlic cloves, finely grated",
+    "2 tablespoons minced fresh oregano, divided",
+    "2 pounds boneless, skinless chicken thighs, halved lengthwise",
+    "1 medium red onion, root end intact, cut into 8 wedges",
+    "¾ cup plain whole-milk Greek yogurt",
+    "2 tablespoons finely chopped fresh dill",
+    "1 ripe tomato, cored and cut into 8 wedges",
+    "Pita bread, to serve"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a colander set over a bowl, toss the shredded cucumber with 1 teaspoon salt. Set aside to drain for at least 10 minutes. Meanwhile, in a large bowl, whisk together 2 tablespoons of oil, 2 teaspoons of lemon juice, two-thirds of the garlic, 1 tablespoon of oregano, 2 teaspoons salt and ¾ teaspoon pepper. Add the chicken and toss to coat; let stand at room temperature while the broiler heats."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the broiler with a rack 4 inches from the element. Line a rimmed baking sheet with foil and set a wire rack on top. Arrange the chicken in a single layer on the center of the rack, then place the onion wedges around the outer edges. Broil until the chicken is lightly charred on both sides, about 12 minutes, flipping the pieces halfway through (there's no need to flip the onions)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the chicken cooks, in a medium bowl, whisk together the yogurt, the remaining 2 tablespoons oil, the remaining 2 teaspoons lemon juice, the remaining garlic and the dill. A handful at a time, squeeze the shredded cucumber to remove as much moisture as possible, then stir into the yogurt mixture; set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the chicken and onion to a serving platter, then sprinkle with the remaining 1 tablespoon oregano. Place the tomato and lemon wedges on the platter and serve with the tzatziki."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1 serving (without pita)",
+    "calories": "470 kcal",
+    "fatContent": "25 g",
+    "saturatedFatContent": "6 g",
+    "cholesterolContent": "219 mg",
+    "sodiumContent": "850 mg",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "2 g",
+    "sugarContent": "5 g",
+    "proteinContent": "50 g"
+  }
+}
