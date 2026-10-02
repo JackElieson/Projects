@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Spiced chilli and coriander chicken",
+  "description": "I mentioned that the oyster mushroom skewer (page 134) was in my current top two on the kebab charts — it's fighting for the top spot with this bad boy. This recipe is simple, perfectly spiced and if you like chicken, you'll love it.\n\nNutrition values are estimates per skewer (not from the cookbook), assuming all of the marinade is eaten and about ¾ teaspoon fine sea salt for \"season generously\".",
+  "recipeYield": "4 skewers",
+  "cookTime": "PT12M",
+  "recipeCategory": [
+    "Main Course"
+  ],
+  "keywords": "Things on sticks, skewers, kebab, chicken, gluten-free",
+  "suitableForDiet": "https://schema.org/GlutenFreeDiet",
+  "recipeIngredient": [
+    "500g chicken breast",
+    "4 garlic cloves",
+    "50g unsalted butter",
+    "1 teaspoon ground coriander",
+    "½ teaspoon ground cumin",
+    "1 teaspoon Aleppo pepper (or ½ teaspoon dried chilli flakes)",
+    "Sea salt",
+    "Freshly ground black pepper",
+    "2 tablespoons olive oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Trim the chicken and cut into even-sized pieces, about 2.5cm big. Peel and finely chop the garlic. Melt the butter and place in a mixing bowl or non-reactive container with a lid. Stir in the chopped garlic, ground coriander, ground cumin and Aleppo pepper. Season generously with sea salt and black pepper. Stir in the olive oil. When the mixture is room temperature, stir in the chicken pieces. Mix together well and cover or seal. Pop in the fridge for at least 1 hour — if you can, overnight will make a huge difference."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If you are using bamboo skewers, make sure you soak them in water first for at least 30 minutes to stop them burning. Evenly divide the meat between the skewers, making sure they're not pushed too close together. Then barbecue or cook in a hot griddle pan for about 10–12 minutes, until charred and just cooked through (you can test one piece by making sure it isn't pink in the middle). Serve straight away."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1 skewer",
+    "calories": "310 kcal",
+    "fatContent": "20 g",
+    "saturatedFatContent": "8 g",
+    "cholesterolContent": "118 mg",
+    "sodiumContent": "480 mg",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "0.5 g",
+    "sugarContent": "0 g",
+    "proteinContent": "28 g"
+  }
+}
