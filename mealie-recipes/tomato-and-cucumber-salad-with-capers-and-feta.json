@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tomato and Cucumber Salad with Capers and Feta",
+  "description": "Salads made with fresh, ripe tomatoes and crisp, cool cucumbers are popular in many Mediterranean cuisines. This version merges classic Greek horiatiki with the shopska salata of Balkan countries. We salt the tomatoes and cucumber to enhance their flavor and draw out excess moisture, and we soak slices of red onion and rings of fresh chili in vinegar to soften their bite. Good-quality cheese is key here. We find pre-crumbled feta to be lacking in flavor, so look for varieties sold in blocks and crumble it yourself.\n\nDon't discard the vinegar after removing the onion and chili, as it is whisked with olive oil and garlic to make the dressing for the salad. After assembling the salad, don't wait to serve it. The flavors and textures are best when fresh.\n\nNutrition values are estimates per serving based on 4 servings (not from the cookbook), assuming Diamond Crystal kosher salt and that most of the salt on the tomatoes and cucumber drains off with their liquid.",
+  "recipeYield": "4 to 6 servings",
+  "totalTime": "PT30M",
+  "recipeCategory": [
+    "Salad",
+    "Side Dish"
+  ],
+  "recipeCuisine": "Mediterranean",
+  "keywords": "Salad Suppers, salad, Greek, tomato, cucumber, feta, vegetarian",
+  "recipeIngredient": [
+    "12 ounces ripe tomatoes, cored and cut into 6 to 8 wedges",
+    "1 English cucumber, halved lengthwise and cut into eighths, then crosswise into 2-inch lengths",
+    "Kosher salt",
+    "Ground black pepper",
+    "½ small red onion, thinly sliced",
+    "1 Fresno or jalapeño chili, stemmed and sliced into thin rings",
+    "3 tablespoons red wine vinegar",
+    "2 ounces feta cheese, crumbled (½ cup)",
+    "1 tablespoon drained capers",
+    "3 tablespoons extra-virgin olive oil",
+    "1 medium garlic clove, finely grated",
+    "½ cup lightly packed fresh flat-leaf parsley, chopped"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a colander set in a large bowl, toss together the tomatoes, cucumber and 1 teaspoon salt; let stand for 10 minutes. Meanwhile, in a small bowl, stir together the onion, chili, vinegar and ¼ teaspoon salt; let stand for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the tomatoes and cucumbers to a serving bowl, discarding their liquid, then sprinkle with the feta. Using tongs, lift the onion and chili out of the vinegar mixture, squeezing gently and allowing the vinegar to drain back into the bowl, then scatter them over the tomatoes and cucumber; reserve the vinegar. Sprinkle the capers over the salad."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To the reserved vinegar, add the oil, garlic and ¼ teaspoon each salt and pepper, then whisk to combine. Drizzle the dressing over the salad and sprinkle with parsley. Toss to combine at the table."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1 serving (¼ of recipe)",
+    "calories": "165 kcal",
+    "fatContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "cholesterolContent": "13 mg",
+    "sodiumContent": "430 mg",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "sugarContent": "5 g",
+    "proteinContent": "4 g"
+  }
+}
