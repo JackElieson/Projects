@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "One Hour Cinnamon Rolls",
+  "description": "Nutrition values are estimates per roll (not from the recipe), assuming 5½ cups bread flour, salted butter, table salt, packed brown sugar and all of the frosting used.",
+  "recipeYield": "12 rolls",
+  "totalTime": "PT1H",
+  "cookTime": "PT20M",
+  "recipeCategory": [
+    "Breakfast",
+    "Dessert"
+  ],
+  "keywords": "cinnamon rolls, breakfast, baking, sweet rolls",
+  "recipeIngredient": [
+    "1 cup warm water",
+    "¾ cup room temperature buttermilk",
+    "½ cup sugar",
+    "¼ cup melted butter",
+    "3 tablespoons regular yeast",
+    "½ tablespoon salt",
+    "2 eggs",
+    "5-6 cups bread flour",
+    "3 tablespoons butter, melted, for the filling",
+    "⅔ cup brown sugar, for the filling",
+    "⅔ cup sugar, for the filling",
+    "3 tablespoons cinnamon, for the filling",
+    "¼ cup butter, softened, for the frosting",
+    "3 cups powdered sugar, for the frosting",
+    "4 oz cream cheese, softened, for the frosting",
+    "1 teaspoon vanilla, for the frosting",
+    "Milk or half and half, enough to make it spreading consistency, for the frosting"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl mix together water, buttermilk, sugar, melted butter and yeast. Allow to sit for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add in salt, eggs and flour. Mix for 10 minutes and allow to sit for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your filling by mixing together melted butter, brown sugar, sugar and cinnamon. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "On a floured surface, roll dough into a 12x16 inch square. Spread your filling over the top and roll up. Cut into 12 large rolls."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place rolls on a cookie sheet covered with a silpat or parchment paper. Bake at 375 for 15-20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While baking, mix together your frosting ingredients. Spread on warm rolls and serve."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1 roll with frosting",
+    "calories": "625 kcal",
+    "fatContent": "16 g",
+    "saturatedFatContent": "9 g",
+    "cholesterolContent": "70 mg",
+    "sodiumContent": "440 mg",
+    "carbohydrateContent": "111 g",
+    "fiberContent": "3 g",
+    "sugarContent": "62 g",
+    "proteinContent": "11 g"
+  }
+}
